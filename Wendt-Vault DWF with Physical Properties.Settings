@@ -1,0 +1,13 @@
+{
+ "Trigger": 
+  {
+
+    "TimeBased": "0 0 14 ? * SUN *",
+
+    "Vault":"wendt",
+
+    "Priority":1,
+
+    "Description":"This job is triggered on Sundays to create DWF with Physical Properties"
+  }
+}

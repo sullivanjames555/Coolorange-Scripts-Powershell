@@ -1,0 +1,13 @@
+{
+ "Trigger": 
+  {
+
+    "TimeBased": "0 0 18 ? * SAT *",
+
+    "Vault":"wendt",
+
+    "Priority":1,
+
+    "Description":"This job is triggered on saturday temporarily to create DWF's based on an input file 2"
+  }
+}

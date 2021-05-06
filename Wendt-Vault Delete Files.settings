@@ -1,0 +1,13 @@
+{
+ "Trigger": 
+  {
+
+    "TimeBased": "0 0 20 ? * MON,TUE,WED,THU,FRI *",
+
+    "Vault":"wendt",
+
+    "Priority":1,
+
+    "Description":"This Job Deletes Files that are named DELETE"
+  }
+}

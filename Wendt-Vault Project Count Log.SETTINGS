@@ -1,0 +1,12 @@
+{
+ "Trigger":
+  {
+
+    "TimeBased": "0 0 5 ? * MON,TUE,WED,THU,FRI *",
+
+    "Vault":"wendt",
+
+    "Priority":100,
+   
+  }
+}

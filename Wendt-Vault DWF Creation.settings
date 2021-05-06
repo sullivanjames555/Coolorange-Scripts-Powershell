@@ -1,0 +1,13 @@
+{
+ "Trigger": 
+  {
+
+    "TimeBased": "0 0 1 ? * TUE,WED,THU,FRI,SAT *",
+
+    "Vault":"wendt",
+
+    "Priority":1,
+
+    "Description":"This job is triggered weekdays at 1 am to create DWF's"
+  }
+}

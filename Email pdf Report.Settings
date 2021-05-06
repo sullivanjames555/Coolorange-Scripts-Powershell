@@ -1,0 +1,14 @@
+{
+ "Trigger":
+  {
+
+    "TimeBased": "0 0 5 ? * SUN,MON,TUE,WED,THU,FRI,SAT *",
+
+    "Vault":"wendt",
+
+    "Priority":10,
+    
+    "Description":"This job is sends a pdf and dwf report weekdays at 5:00 am"
+   
+  }
+}
